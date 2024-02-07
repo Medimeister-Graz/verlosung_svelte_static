@@ -1,6 +1,7 @@
 <script lang="ts">
 	// core components
 	import mmgraz from '$lib/img/mmgraz_transparent.png';
+	import { base } from '$app/paths';
 </script>
 
 <div class="container mx-auto px-4 min-h-screen">
@@ -50,9 +51,9 @@
 						>
 					</div>
 					<div class="pb-4 text-center">
-						<a href="/dsgvo" class="text-slate-400 text-xs">Datenschutzerklärung</a>
+						<a href="{base}/dsgvo" class="text-slate-400 text-xs">Datenschutzerklärung</a>
 						|
-						<a href="/impressum" class="text-slate-400 text-xs mr-14">Impressum</a>
+						<a href="{base}/impressum" class="text-slate-400 text-xs mr-14">Impressum</a>
 					</div>
 				</div>
 			</div>

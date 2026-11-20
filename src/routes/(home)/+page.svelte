@@ -58,6 +58,9 @@
 					Impressum
 				</a>
 			</p>
+
+			<a href="https://studo.com#org=1f9dc12cd9"><img src="https://studo.co/assets/logo/studo_logo_red.png" alt="Studo Logo" style="max-width: 160px"></img></a>
+
 		</div>
 	</div>
 	<div class="bg-muted hidden lg:block">

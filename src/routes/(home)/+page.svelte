@@ -38,7 +38,7 @@
 					<h1>
 						Eure diesjährigen Daten wurden archiviert und fürs nächste Jahr gespeichert. Im nächsten
 						Jahr könnt ihr diese direkt wieder verwenden, nachdem ihr eure E-Mail und Studienjahr
-						aktualisiert habt.
+						aktualisiert habt...
 					</h1>
 					<h1>Die Infos zur Verlosung findet ihr dann nächstes Jahr wieder auf Instagram.</h1>
 				</div>
@@ -58,9 +58,6 @@
 					Impressum
 				</a>
 			</p>
-
-			<a href="https://studo.com#org=1f9dc12cd9"><img src="https://studo.co/assets/logo/studo_logo_red.png" alt="Studo Logo" style="max-width: 160px"></img></a>
-
 		</div>
 	</div>
 	<div class="bg-muted hidden lg:block">
